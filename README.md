@@ -1,7 +1,11 @@
-goreferrer (No longer maintained)
+goreferrer (Revival in Progress) 
 =================================
 
-**⚠️ NOTE: This project is not maintained and will not receive any updates or compatibility fixes for future versions of Go ⚠️**
+⚠️ This project was previously unmaintained and is **not currently ready for production use**. The original repository was archived by Shopify and stopped receiving updates or fixes. However, I am working on updating and maintaining this project making it production-ready again.
+
+**Use at your own risk until the revival is complete.**
+
+## What is goreferrer?
 
 A Go module that analyzes and classifies different kinds of referrer URLs (search, social, ...).
 
